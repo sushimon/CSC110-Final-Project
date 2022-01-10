@@ -1,0 +1,2 @@
+plotly==5.2.2
+python_ta==2.1.0
